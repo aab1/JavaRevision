@@ -1,0 +1,4 @@
+This is the first content of my file
+This can also be replaced by variable
+I can also write numbers e.g.2000
+This is not the same
